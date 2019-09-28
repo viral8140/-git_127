@@ -1,0 +1,10 @@
+#include<stdio.h>
+using namespace std;
+int main()
+{
+  int a;
+  cout<<"enter the length of circle:";
+  cin>>a;
+  area=3.14*a*a;
+  cout<<"the area of circle is:"<<area;
+}
